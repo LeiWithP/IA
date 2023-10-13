@@ -14,4 +14,4 @@ En los viajes solo pueden ir dos
 ### 8. Se regresa un caníbal 
 ### 9. Se mueven dos caníbales al otro lado 
 ### 10. Se regresa un caníbal 
-### 1.1 Se mueven los últimos dos caníbales al otro lado del río
+### 11. Se mueven los últimos dos caníbales al otro lado del río
