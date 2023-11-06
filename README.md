@@ -63,13 +63,13 @@ Aún así nosotros deberíamos comenzar a aprovechar las herramientas a las que 
 
 La teoría de las múltiples inteligencias que establece Gardner se refiere a la separación de la inteligencia comúnmente asociada a las personas, que únicamente se refiere a la lógica matemática, de otro tipo de inteligencias que se pueden encontrar en las personas. Gardner propone 8 inteligencias principales donde cada una aporta algo de manera significativa y es relevante para la sociedad de maneras que pueden variar. 
 
-### Inteligencia espacial 
+### Inteligencia Espacial 
 
 Todos los seres vivos se relacionan y desplazan a través del espacio. La manera en que lo entendemos depende en gran parte de nuestros ojos y él cómo interpretamos esta información tenía un directo impacto no solo en cómo nos movemos si no en cómo tomamos decisiones relativas a nuestro entorno. Esa inteligencia se refiere a la capacidad que tenemos en mayor o menor medida de comprender y analizar el espacio que nos rodea llegando a conclusiones a partir de la información que recibe nuestros ojos y así tomando decisiones que pueden ir desde la aplicación de la teoría del color en la pintura hasta el diseño arquitectónico. Este tipo de inteligencia surgió y tomar relevancia debido a que nuestros ancestros debían ser capaces de comprender el espacio que lo rodeaba además de detectar posibles amenazas por lo que alguien con una inteligencia de este tipo tenía mayores posibilidades de sobrevivir.
 
 A pesar de que hoy en día ya no existen tantos riesgos como en el pasado este es un tipo de inteligencia que se aplica para muchísimas disciplinas y que está asociada tanto artistas como a diseñadores e ingenieros aplicando los conocimientos y entendimiento que se tiene de un entorno para el beneficio de los seres humanos y la creación y expresión artística.
 
-### Inteligencia corporal 
+### Inteligencia Corporal 
 
 Así como es importante conocer el entorno en el que nos desarrollamos también lo es saber la manera en que lo hacemos y cómo interactuamos no solo con el espacio sino con las cosas que nos rodean. Así cosas como el entender y ser capaz de moverse y controlar nuestras capacidades motrices es algo importante para todo ser humano.
 
@@ -77,7 +77,7 @@ De la mano con la espacial, la inteligencia corporal se refiere a como las perso
 
 Esa inteligencia al ir tan relacionada al espacio se entiende que fue necesaria para los humanos porque además de comprender su entorno deberían ser capaces de interactuar con él de manera eficaz y precisa. Los humanos debían tener capacidades motrices suficientes como para poder cazar presas y mantener largas jornadas diarias, además me quedé bien tener habilidades más precisas y complicadas, de para poder ejecutar tareas como no fueron la cocina y la creación de herramientas además de su propia utilización por lo que al igual que con el conocimiento espacial está en una habilidad que mejoraba las capacidades de supervivencia de los humanos que la poseían.
 
-### Inteligencia naturalista 
+### Inteligencia Naturalista 
 
 El entorno en el que los seres vivos existimos ha sido desde que la vida respiró por primera vez la propia naturaleza. Nosotros comprendemos la naturaleza como todo el ecosistema y ambiente en el que los seres vivos tenemos que coexistir y cómo existe un equilibrio para que todas las especies sean capaces de vivir sin que ninguna llegue a predominar sobre otra. 
 
@@ -89,7 +89,7 @@ De este modo esta inteligencia va enfocada a cómo los seres humanos son capaces
 
 Eso es una inteligencia que conforme avanzamos como especie se vuelve cada vez más y más relevante puesto que es de Vital importancia para la supervivencia no solo de nosotros como especie Sino de todas las especies que habitan y se ven forzadas a coexistir con nosotros.
 
-### Inteligencia musical 
+### Inteligencia Musical 
 
 Así como la vista nos permite relacionarnos comprender el entorno, el oído resulta de la misma importancia para los seres humanos al momento de interactuar y comprender el ambiente que nos rodea. A partir de esta habilidad tan básica para nosotros es que surge una de las artes más antiguas, la música. 
 
@@ -101,7 +101,7 @@ Esta habilidad al igual que el espacial surge a partir de la necesidad de los se
 
 No por eso significa que sea una habilidad menos importante, siendo que resulta tan relevante hoy como en la fase cientos de años puede no ser aplicada No solo para los artistas sino en ámbitos como la acústica como relacionada con la física, como en tareas y trabajos que requieren de una gran capacidad de escucha como la que aplican los biólogos en la clasificación de algunas especies.
 
-### Inteligencia lingüística 
+### Inteligencia Lingüística 
 
 Al ser el oído una de las habilidades más importantes para los seres humanos, la comunicación a distancia se desarrolló tomando esta muy en cuenta. Las lenguas y los idiomas surgieron a partir de nuestra increíble capacidad para reconocer y clasificar sonidos, aprovechándola para comunicarnos con otros seres humanos e incluso otras especies por medio de sonidos capaces de ser distinguidos entre sí y con significados abstractos o concretos. 
 
@@ -113,7 +113,7 @@ Esa inteligencia destaca sobre todo debido a que requiere que el individuo tenga
 
 Estabilidad es muy relevante en la sociedad y se ve todo el tiempo desde en ámbitos concentrados como lo son con reporteros o profesores, hasta en revolucionarios y políticos que son capaces de convencer y mover masas de personas.
 
-### Inteligencia intrapersonal 
+### Inteligencia Intrapersonal 
 
 Cada individuo es un mundo, formado de sus propias ideas y creencias y esculpido por medio del entorno y las experiencias, los seres humanos son complejos y complicados de entender. Aunque la lengua es muy importante al momento de comprender lo que otras personas sienten, no lo es todo cuando uno de verdad quiere comprender los sentimientos y emociones de las demás personas. La capacidad de un individuo de entender de múltiples maneras lo que otra persona siente sin necesidad de expresarlo directamente es algo muy valioso y que para algunos puede resultar más complicado que para otros. 
 
@@ -123,7 +123,7 @@ Esto lleva a la capacidad de empatizar con las personas, las habilidades más im
 
 desarrollada núcleos básicos y fundamentales para cualquier comunidad, desde los grupos pequeños como son los amigos o una familia, hasta las comunidades, pudiendo ser más importante incluso que las inteligencias más comúnmente enseñadas.
 
-### Inteligencia interpersonal
+### Inteligencia Interpersonal
 
 La capacidad de comprender lo que otros seres humanos buscan expresar sin la necesidad de palabras es una parte importante en el desarrollo de las sociedades y comunidades. No todas las cosas que la gente busca expresar se hacen mediante palabras, comprender y entender los sentimientos y la raíz de ellos en alguien puede ser una tarea complicada si no se entiende las distintas maneras en la que la gente muestra y da a entender distintos pensamientos y sensaciones a través de acciones, palabras el comportamientos además de que es necesario comprender la amplitud de ellos como has tenido un panorama general, para así obtener una real comprensión de la psique de las personas. 
 
@@ -131,7 +131,7 @@ Como un punto medio entre la inteligencia lingüística y la intrapersonal, la l
 
 Esta quizá no sea tan fácil de diferenciar y la realidad es que va muy de la mano con sus otras dos inteligencias parecidas, pero aún así representa por sí mismo una habilidad que es importante y relevante para las sociedades y el logro de la cooperación entre las personas.
 
-### Inteligencia lógica-matemática
+### Inteligencia Lógica-Matemática
 
 La comprensión de los conceptos abstractos y valores en los que está escrito el universo representan una importante habilidad Al momento de entender y desarrollar ciencia y tecnología. 
 
