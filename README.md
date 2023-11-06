@@ -59,7 +59,7 @@ Así como es que esta disciplina nació y creció fundamentada sobre otras es po
 
 Aún así nosotros deberíamos comenzar a aprovechar las herramientas a las que tenemos acceso y darles un buen uso por nuestra propia mano buscando además dar una retroalimentación activa y positiva sobre cómo se están llevando a cabo y el destino final al que nosotros queremos que se dirija esta ciencia que ha dado tanto de qué hablar.
 
-# Introducción a la Inteligencia Artificial Actividad 1, Practica 1
+# 2 Introducción a la Inteligencia Artificial: Tipos de Inteligencia.
 
 La teoría de las múltiples inteligencias que establece Gardner se refiere a la separación de la inteligencia comúnmente asociada a las personas, que únicamente se refiere a la lógica matemática, de otro tipo de inteligencias que se pueden encontrar en las personas. Gardner propone 8 inteligencias principales donde cada una aporta algo de manera significativa y es relevante para la sociedad de maneras que pueden variar. 
 
