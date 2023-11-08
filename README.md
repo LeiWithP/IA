@@ -1,4 +1,7 @@
 # Introducción a la Inteligencia Artificial Actividad 1, Practica 1
+
+
+
 ## Ensayo Inteligencia artificial un enfoque moderno
 ### Inteligencia Artificial 
 
@@ -56,8 +59,11 @@ Al tiempo dirá qué es lo que sucederá al final del día y aunque no todos les
 
 Así como es que esta disciplina nació y creció fundamentada sobre otras es posible que esta misma derive nuevas ramas Y ciencias de las que nosotros aún no tenemos idea y que lleve a problemas éticos y Morales para los que muchas otras Mentes pensantes se han estado preparando Durante los últimos años. 
 
-
 Aún así nosotros deberíamos comenzar a aprovechar las herramientas a las que tenemos acceso y darles un buen uso por nuestra propia mano buscando además dar una retroalimentación activa y positiva sobre cómo se están llevando a cabo y el destino final al que nosotros queremos que se dirija esta ciencia que ha dado tanto de qué hablar.
+
+
+
+
 
 # 2 Introducción a la Inteligencia Artificial: Tipos de Inteligencia.
 
@@ -138,3 +144,162 @@ La comprensión de los conceptos abstractos y valores en los que está escrito e
 Esa inteligencia es la más comúnmente asociada a la pura inteligencia y se refiere a la comprensión de las ciencias y la matemática por medio de la lógica y el razonamiento. Esta se popularizó como la única inteligencia pues representaba algo no realmente visto de manera natural, al menos a simple vista, en los seres vivos sino que parecía haber surgido a partir de la propia conciencia e intelecto humano, naciendo de aquí la interpretación y creación de símbolos como ideas y fórmulas que nos permitiesen darle un sentido al mundo que nos rodea, buscando además ramificarlo y aplicarlo de modo que nos fuese útil y nos permitiese mejorar la calidad de vida y los propios límites del conocimiento. 
 
 A pesar de que un día ya sabemos que esta no es la inteligencia más importante ni que merece ser puesta por sobre las otras, pues sociedad Todas estas inteligencias son relevantes e importantes además de que tienen un impacto en nuestra vida de manera positiva, necesario darle el crédito que tiene por permitir El Avance tecnológico de la sociedad y permitir al ser humano entender y manipular las distintas leyes para la mejora de la calidad de vida de las personas.
+
+
+
+
+
+# Introducción a la Inteligencia Artificial: Introspección
+
+
+
+|  A1  |  A2  |  A3  |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|  B1  |  B2  |  B3  |  B4  |
+
+
+
+|      |  A2  |  A3  |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |  A1  |
+|  B1  |  B2  |  B3  |  B4  |
+
+
+
+|      |  A2  |  A3  |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |  B1  |      |
+|      |      |      |  A1  |
+|      |  B2  |  B3  |  B4  |
+
+
+
+|      |  A2  |      |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |  A3  |
+|      |      |  B1  |      |
+|      |      |      |  A1  |
+|      |  B2  |  B3  |  B4  |
+
+
+
+|      |  A2  |      |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |  A3  |
+|  B3  |      |  B1  |      |
+|      |      |      |  A1  |
+|      |  B2  |      |  B4  |
+
+
+
+|      |  A2  |      |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |  A3  |
+|  B3  |      |  B1  |      |
+|      |      |      |      |
+|      |  B2  |  A1  |  B4  |
+
+
+
+|  B1  |  A2  |      |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |  A3  |
+|  B3  |      |      |      |
+|      |      |      |      |
+|      |  B2  |  A1  |  B4  |
+
+
+
+|  B1  |  A2  |      |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|  B3  |      |      |      |
+|      |      |      |      |
+|  A3  |  B2  |  A1  |  B4  |
+
+
+
+|  B1  |  A2  |  B3  |  A4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|  A3  |  B2  |  A1  |  B4  |
+
+
+
+|  B1  |      |  B3  |  A4  |
+| :--: | :--: | :--: | :--: |
+|  A2  |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|  A3  |  B2  |  A1  |  B4  |
+
+
+
+|  B1  |      |  B3  |  A4  |
+| :--: | :--: | :--: | :--: |
+|  A2  |      |      |      |
+|      |      |      |  B2  |
+|      |      |      |      |
+|  A3  |      |  A1  |  B4  |
+
+
+
+|  B1  |      |  B3  |      |
+| :--: | :--: | :--: | :--: |
+|  A2  |      |      |      |
+|      |      |      |  B2  |
+|  A4  |      |      |      |
+|  A3  |      |  A1  |  B4  |
+
+
+
+|  B1  |      |  B3  |      |
+| :--: | :--: | :--: | :--: |
+|  A2  |      |      |      |
+|      |  B4  |      |  B2  |
+|  A4  |      |      |      |
+|  A3  |      |  A1  |      |
+
+
+
+|  B1  |      |  B3  |      |
+| :--: | :--: | :--: | :--: |
+|  A2  |      |      |      |
+|      |  B4  |      |  B2  |
+|      |      |      |      |
+|  A3  |  A4  |  A1  |      |
+
+
+
+|  B1  |      |  B3  |  B4  |
+| :--: | :--: | :--: | :--: |
+|  A2  |      |      |      |
+|      |      |      |  B2  |
+|      |      |      |      |
+|  A3  |  A4  |  A1  |      |
+
+
+
+|  B1  |      |  B3  |  B4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |      |  B2  |
+|      |      |      |      |
+|  A3  |  A4  |  A1  |  A2  |
+
+
+
+|  B1  |  B2  |  B3  |  B4  |
+| :--: | :--: | :--: | :--: |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|  A3  |  A4  |  A1  |  A2  |
