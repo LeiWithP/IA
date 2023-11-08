@@ -155,9 +155,9 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 |  A1  |  A2  |  A3  |  A4  |
 | :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+|  .   |  .   |  .   |  .   |
+|  .   |  .   |  .   |  .   |
+|  .   |  .   |  .   |  .   |
 |  B1  |  B2  |  B3  |  B4  |
 
 
