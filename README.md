@@ -162,11 +162,11 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
-|      |  A2  |  A3  |  A4  |
+|  -   |  A2  |  A3  |  A4  |
 | :--: | :--: | :--: | :--: |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |  A1  |
+|  -   |  -   |  -   |  -   |
+|  -   |  -   |  -   |  -   |
+|  -   |  -   |  -   |  A1  |
 |  B1  |  B2  |  B3  |  B4  |
 
 
