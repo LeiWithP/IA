@@ -153,6 +153,19 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+La base del problema plantea un tablero de 4 * 5 donde en las filas superiores e inferior se encuentran cuatro alfiles de cada color. 
+El problema a resolver es invertir las posiciones de los alfiles, sin importar su orden en la fila, moviendo los alfiles de un color que se encuentran en la parte superior a la inferior y viceversa. 
+Además se debe de realizar solo un movimiento cada vez y debe alternarse entre un alfil y un color y otro, ni modo que no se puede mover el mismo alfil dos veces seguidas.
+
+Primero se determinó la cantidad mínima de movimientos en los que se puede terminar, debido a que el tablero tiene cinco filas y ambos alfiles se encuentran en la parte más alejada de estas, no es posible que un alfil, sin sin importar en qué posición esté, llegue al otro lado en un solo movimiento por lo que mínimo deberá realizar dos movimientos para llegar a cualquier punto del otro lado.
+
+Por ello se puede obtener la cantidad mínima de movimientos posibles que sería el doble de la cantidad de alfiles que hay, habiendo en este caso ocho alfiles el mínimo de movimientos es 16. 
+Así entonces se planea la estrategia de juego. Esta se formuló de acuerdo a la idea de que cada que se moviese un alfil de un color en una casilla tendría que moverse otro alfil de otro color en una casilla del mismo color en la que se movió el primer alfil, o sea que si un alfil negro sale de la casilla negra, se deberá mover un alfil blanco de una casilla negra de modo que ambos puedan reemplazar las casillas que abandonaron. Así los primeros movimientos son alternando alfiles impares sacándolos a puntos que les permitan entrar a la casilla abandonada del otro lado. 
+Los movimientos que se realizan en esta sección de juego colocarán a los alfiles de un color en una misma columna y a los alfiles del otro color en una misma fila sin que estos compartan ninguna, de alfiles de diferente color. Entonces quedarían por ejemplo dos alfiles negros en la fila 3, sin que haya alfiles blancos en esa fila, y dos alfiles blancos en la columna 5, sin que haya alfiles negros en esa columna. Esto permitirá realizar los mismos movimientos de manera invertida para colocar cada alfil en el lado opuesto. 
+Esta serie de movimientos, al cuatro alfiles de un lado al otro, completa un total de ocho movimientos en total. Este mismo proceso se repite con los alfiles que falten siguiendo la misma estrategia y completando otros ocho movimientos terminando en una cantidad final de 16, qué es la mínima posible. 
+
+
+
 1.
 
 |  A1  |  A2  |  A3  |  A4  |
