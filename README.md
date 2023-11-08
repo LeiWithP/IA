@@ -153,7 +153,7 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
-La base del problema plantea un tablero de 4 * 5 donde en las filas superiores e inferior se encuentran cuatro alfiles de cada color. 
+La base del problema plantea un tablero de 4 x 5 donde en las filas superiores e inferior se encuentran cuatro alfiles de cada color. 
 El problema a resolver es invertir las posiciones de los alfiles, sin importar su orden en la fila, moviendo los alfiles de un color que se encuentran en la parte superior a la inferior y viceversa. 
 Además se debe de realizar solo un movimiento cada vez y debe alternarse entre un alfil y un color y otro, ni modo que no se puede mover el mismo alfil dos veces seguidas.
 
