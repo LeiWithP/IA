@@ -186,6 +186,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+4.
+
 |  -   |  A2  |  -   |  A4  |
 | :--: | :--: | :--: | :--: |
 |  -   |  -   |  -   |  A3  |
@@ -194,6 +196,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 |  -   |  B2  |  B3  |  B4  |
 
 
+
+5.
 
 |  -   |  A2  |  -   |  A4  |
 | :--: | :--: | :--: | :--: |
@@ -204,6 +208,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+6.
+
 |  -   |  A2  |  -   |  A4  |
 | :--: | :--: | :--: | :--: |
 |  -   |  -   |  -   |  A3  |
@@ -213,6 +219,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+7.
+
 |  B1  |  A2  |  -   |  A4  |
 | :--: | :--: | :--: | :--: |
 |  -   |  -   |  -   |  A3  |
@@ -222,6 +230,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+8.
+
 |  B1  |  A2  |  -   |  A4  |
 | :--: | :--: | :--: | :--: |
 |  -   |  -   |  -   |  -   |
@@ -230,6 +240,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 |  A3  |  B2  |  A1  |  B4  |
 
 
+
+9.
 
 |  B1  |  A2  |  B3  |  A4  |
 | :--: | :--: | :--: | :--: |
@@ -240,6 +252,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+10.
+
 |  B1  |  -   |  B3  |  A4  |
 | :--: | :--: | :--: | :--: |
 |  A2  |  -   |  -   |  -   |
@@ -249,6 +263,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+11.
+
 |  B1  |  -   |  B3  |  A4  |
 | :--: | :--: | :--: | :--: |
 |  A2  |  -   |  -   |  -   |
@@ -258,6 +274,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+12.
+
 |  B1  |  -   |  B3  |  -   |
 | :--: | :--: | :--: | :--: |
 |  A2  |  -   |  -   |  -   |
@@ -266,6 +284,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 |  A3  |  -   |  A1  |  B4  |
 
 
+
+13.
 
 |  B1  |  -   |  B3  |  -   |
 | :--: | :--: | :--: | :--: |
@@ -276,6 +296,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+14.
+
 |  B1  |  -   |  B3  |  -   |
 | :--: | :--: | :--: | :--: |
 |  A2  |  -   |  -   |  -   |
@@ -285,6 +307,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+15.
+
 |  B1  |  -   |  B3  |  B4  |
 | :--: | :--: | :--: | :--: |
 |  A2  |  -   |  -   |  -   |
@@ -294,6 +318,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 
 
 
+16.
+
 |  B1  |  -   |  B3  |  B4  |
 | :--: | :--: | :--: | :--: |
 |  -   |  -   |  -   |  -   |
@@ -302,6 +328,8 @@ A pesar de que un día ya sabemos que esta no es la inteligencia más importante
 |  A3  |  A4  |  A1  |  A2  |
 
 
+
+17.
 
 |  B1  |  B2  |  B3  |  B4  |
 | :--: | :--: | :--: | :--: |
