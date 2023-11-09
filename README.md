@@ -61,7 +61,9 @@ Así como es que esta disciplina nació y creció fundamentada sobre otras es po
 
 Aún así nosotros deberíamos comenzar a aprovechar las herramientas a las que tenemos acceso y darles un buen uso por nuestra propia mano buscando además dar una retroalimentación activa y positiva sobre cómo se están llevando a cabo y el destino final al que nosotros queremos que se dirija esta ciencia que ha dado tanto de qué hablar.
 
----
+
+
+## Ensayo Documental sobre IA 
 
 La Inteligencia artificial ha ido avanzando muchísimo durante los últimos años, demostrando las distintas capacidades que posee y el potencial que existe para esta herramienta. Estos avances nos han llevado a pensar en que otro tipo de áreas podríamos llevar a cabo o aprovechar las capacidades que esta pose imaginando todo tipo de escenarios nuevos y visualizando un futuro en el que ésta nos ayude en la mayoría de tareas que tenemos en nuestra vida cotidiana. 
 Sin embargo, para que esta herramienta alcance este. Primero es necesario que domine otras tareas y habilidades básicas que nosotros los seres humanos damos por sentado pero que para una computadora pueden representar todo un reto. 
