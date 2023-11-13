@@ -60,6 +60,8 @@ Aún así nosotros deberíamos comenzar a aprovechar las herramientas a las que 
 
 
 
+
+
 ## Ensayo Documental sobre IA 
 
 ### Introduccion
