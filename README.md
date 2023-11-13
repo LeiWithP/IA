@@ -408,3 +408,6 @@ Vale la pena tener como es que se soluciona ese tipo de problemas para comprende
 |  -   |  -   |  -   |  -   |
 |  -   |  -   |  -   |  -   |
 |  A3  |  A4  |  A1  |  A2  |
+
+
+# [Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea4.md)
