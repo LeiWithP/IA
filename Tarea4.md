@@ -1,7 +1,3 @@
-[URL](https://miro.com/app/board/uXjVNR-i_48=/)
-
-
-
 ### Introducción
 
 Los programas son capaces de entender distintos conjuntos de datos de maneras diferentes, esencialmente todas parten de valores binarios y arreglos de estos. A partir de este día de los arreglos es que una computadora es capaz de entender cómo es que se juntan elementos que son capaces de representar múltiples dimensiones partiendo del vector que existe en una sola y subiendo de nivel hacia matrices de escala prácticamente infinita. 
