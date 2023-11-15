@@ -13,3 +13,16 @@
 
 
 # [4 Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea4.md#introducci%C3%B3n)
+
+
+
+# 5 Introducción a la Inteligencia Artificial: Introspección
+
+
+
+# 6 Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica
+
+
+
+# 7 Introducción a la Inteligencia Artificial: El papel de la heurística
+
