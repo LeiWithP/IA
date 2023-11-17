@@ -1,28 +1,28 @@
-# [1 Introducción a la Inteligencia Artificial Actividad 1 Practica 1](https://github.com/LeiWithP/IA/blob/main/Tarea1.md)
-## [Ensayo Inteligencia artificial un enfoque moderno](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-inteligencia-artificial-un-enfoque-moderno)
-## [Ensayo Documental sobre IA](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-documental-sobre-ia)
+### [1 Introducción a la Inteligencia Artificial Actividad 1 Practica 1](https://github.com/LeiWithP/IA/blob/main/Tarea1.md)
+#### [Ensayo Inteligencia artificial un enfoque moderno](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-inteligencia-artificial-un-enfoque-moderno)
+#### [Ensayo Documental sobre IA](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-documental-sobre-ia)
 
 
 
-# [2 Introducción a la Inteligencia Artificial: Tipos de Inteligencia](https://github.com/LeiWithP/IA/blob/main/Tarea2.md#introducci%C3%B3n)
+### [2 Introducción a la Inteligencia Artificial: Tipos de Inteligencia](https://github.com/LeiWithP/IA/blob/main/Tarea2.md#introducci%C3%B3n)
 
 
 
-# [3 Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea3.md#ensayo)
+### [3 Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea3.md#ensayo)
 
 
 
-# [4 Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea4.md#introducci%C3%B3n)
+### [4 Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea4.md#introducci%C3%B3n)
 
 
 
-# 5 Introducción a la Inteligencia Artificial: Introspección
+### [5 Introducción a la Inteligencia Artificial: Introspección](https://github.com/LeiWithP/IA/blob/main/Tarea5.md#introducci%C3%B3n)
 
 
 
-# 6 Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica
+### [6 Introducción a la Inteligencia Artificial: El proceso de razonamiento según la lógica](https://github.com/LeiWithP/IA/blob/main/Tarea6.md)
 
 
 
-# 7 Introducción a la Inteligencia Artificial: El papel de la heurística
+### [7 Introducción a la Inteligencia Artificial: El papel de la heurística](https://github.com/LeiWithP/IA/blob/main/Tarea7.md)
 
