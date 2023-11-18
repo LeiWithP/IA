@@ -26,7 +26,7 @@ En casa no Encontraron la salida terminará retornando la entrada por la que se 
 
 #### Algoritmo
 
-```
+```python
 def kevin(matrix, start, entrance):
     row, col = start
     num_rows, num_cols = len(matrix), len(matrix[0])
