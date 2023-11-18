@@ -43,8 +43,11 @@
 > #### [Codigo](https://github.com/LeiWithP/IA/blob/main/CodigoTarea7.py)
 
 
-### 8 Reglas y Búsquedas : Espacio de Estados
+### [8 Reglas y Búsquedas : Espacio de Estados](https://github.com/LeiWithP/IA/blob/main/Tarea8.md)
+> #### [Tres Ranas](https://github.com/LeiWithP/IA/blob/main/Tarea8.md#tres-ranas)
+> #### [Tres Misioneros](https://github.com/LeiWithP/IA/blob/main/Tarea8.md#tres-misioneros)
 
 
-### 9 Generación de Dataset
-
+### [9 Generación de Dataset]()
+> #### [Generador Markdown]()
+> #### [Jupiter Notebook Code]()
