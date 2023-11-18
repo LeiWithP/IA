@@ -42,3 +42,5 @@
 > #### [Solucion](https://github.com/LeiWithP/IA/blob/main/Tarea7.md)
 > #### [Codigo](https://github.com/LeiWithP/IA/blob/main/CodigoTarea7.py)
 
+
+### 8 Reglas y Búsquedas : Espacio de Estados
