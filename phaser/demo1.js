@@ -3,7 +3,7 @@ var h=400;
 var jugador;
 var fondo;
 
-var bala, balaD=false, nave;
+var bala, bala2, balaD=false, nave;
 
 var salto;
 var menu;
@@ -44,6 +44,11 @@ function create() {
     nave = juego.add.sprite(w-100, h-70, 'nave');
     bala = juego.add.sprite(w-100, h, 'bala');
     jugador = juego.add.sprite(50, h, 'mono');
+
+    bala2 = juego.add.sprite(jugador.x, 0, 'bala');
+    juego.physics.enable(bala2);
+    bala2.body.velocity.y = 300;
+    bala2.body.collideWorldBounds = true;
 
 
     juego.physics.enable(jugador);
@@ -129,7 +134,7 @@ function resetVariables(){
     jugador.body.velocity.y=0;
     bala.body.velocity.x = 0;
     bala.position.x = w-100;
-    jugador.position.x=50;
+    // jugador.position.x=50;
     balaD=false;
 }
 
@@ -144,6 +149,7 @@ function update() {
     fondo.tilePosition.x -= 1; 
 
     juego.physics.arcade.collide(bala, jugador, colisionH, null, this);
+    juego.physics.arcade.collide(bala2, jugador, colisionH, null, this);
 
     estatuSuelo = 1;
     estatusAire = 0;
@@ -181,6 +187,11 @@ function update() {
     if( bala.position.x <= 0  ){
         resetVariables();
     }
+
+    if (bala2.body.onFloor()) {
+        bala2.x = jugador.x;
+        bala2.y = 0;
+    }
     
     if( modoAuto ==false  && bala.position.x > 0 ){
 
@@ -204,6 +215,8 @@ function disparo(){
 }
 
 function colisionH(){
+    bala2.y = 0;
+    bala2.x = jugador.x;
     pausa();
 }
 
