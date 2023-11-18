@@ -3,7 +3,7 @@ var h=400;
 var jugador;
 var fondo;
 
-var bala, bala2, balaD=false, nave;
+var bala, balaD=false, nave;
 
 var salto;
 var menu;
@@ -43,7 +43,6 @@ function create() {
     fondo = juego.add.tileSprite(0, 0, w, h, 'fondo');
     nave = juego.add.sprite(w-100, h-70, 'nave');
     bala = juego.add.sprite(w-100, h, 'bala');
-    // bala2 = juego.add.sprite(50, 0, 'bala');
     jugador = juego.add.sprite(50, h, 'mono');
 
 
@@ -54,9 +53,6 @@ function create() {
 
     juego.physics.enable(bala);
     bala.body.collideWorldBounds = true;
-
-    // juego.physics.enable(bala2);
-    // bala2.body.collideWorldBounds = true;
 
     moveLeft = juego.input.keyboard.addKey(Phaser.Keyboard.LEFT);
     moveRight = juego.input.keyboard.addKey(Phaser.Keyboard.RIGHT);
@@ -133,8 +129,6 @@ function resetVariables(){
     jugador.body.velocity.y=0;
     bala.body.velocity.x = 0;
     bala.position.x = w-100;
-    // bala2.body.velocity.x = 0;
-    // bala2.position.y = 0;
     jugador.position.x=50;
     balaD=false;
 }
@@ -162,9 +156,9 @@ function update() {
     despBala = Math.floor( jugador.position.x - bala.position.x );
 
     if (modoAuto==false && moveLeft.isDown) {
-        jugador.body.velocity.x = -200; // Adjust the speed as needed
+        jugador.body.velocity.x = -200;
     } else if (modoAuto==false && moveRight.isDown) {
-        jugador.body.velocity.x = 200; // Adjust the speed as needed
+        jugador.body.velocity.x = 200;
     } else {
         jugador.body.velocity.x = 0;
     }
@@ -206,8 +200,6 @@ function disparo(){
     velocidadBala =  -1 * velocidadRandom(300,800);
     bala.body.velocity.y = 0 ;
     bala.body.velocity.x = velocidadBala ;
-    // bala2.body.velocity.x = 0 ;
-    // bala2.body.velocity.y = -velocidadBala ;
     balaD=true;
 }
 
