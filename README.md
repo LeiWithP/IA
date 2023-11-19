@@ -1,3 +1,9 @@
+## [CNN]()
+
+## [HaarCascade]()
+
+## [Phaser]()
+
 ## [1 Introducción a la Inteligencia Artificial Actividad 1 Practica 1](https://github.com/LeiWithP/IA/blob/main/Tarea1.md)
 > #### [Ensayo Inteligencia artificial un enfoque moderno](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-inteligencia-artificial-un-enfoque-moderno)
 > #### [Ensayo Documental sobre IA](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-documental-sobre-ia)
