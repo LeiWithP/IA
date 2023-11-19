@@ -10,11 +10,16 @@ var menu;
 
 var moveLeft
 var moveRight
+var actualPosX
 
 var velocidadBala;
 var despBala;
+var despBala2;
+var dirBala2;
 var estatusAire;
 var estatuSuelo;
+var estatusAtras;
+var estatusAdelante;
 
 var nnNetwork , nnEntrenamiento, nnSalida, datosEntrenamiento=[];
 var modoAuto = false, eCompleto=false;
@@ -67,10 +72,10 @@ function create() {
     pausaL.events.onInputUp.add(pausa, self);
     juego.input.onDown.add(mPausa, self);
 
-    salto = juego.input.keyboard.addKey(Phaser.Keyboard.SPACEBAR);
+    salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
     
-    nnNetwork =  new synaptic.Architect.Perceptron(2, 6, 6, 2);
+    nnNetwork =  new synaptic.Architect.Perceptron(5, 3, 3, 3, 4);
     nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 
 }
@@ -82,12 +87,19 @@ function enRedNeural(){
 
 function datosDeEntrenamiento(param_entrada){
 
-    console.log("Entrada",param_entrada[0]+" "+param_entrada[1]);
+    console.log("Entrada",param_entrada[0]+" "+param_entrada[1]+" "+param_entrada[2]+" "+param_entrada[3]);
     nnSalida = nnNetwork.activate(param_entrada);
     var aire=Math.round( nnSalida[0]*100 );
     var piso=Math.round( nnSalida[1]*100 );
+    var atras=Math.round( nnSalida[2]*100 );
+    var adelante=Math.round( nnSalida[3]*100 );
     console.log("Valor ","En el Aire %: "+ aire + " En el suelo %: " + piso );
-    return nnSalida[0]>=nnSalida[1];
+    console.log("Valor ","Atras %: "+ atras + " Adelante %: " + adelante );
+    var salidas = []
+    salidas[0] = nnSalida[0] - nnSalida[1]
+    salidas[1] = nnSalida[2] - nnSalida[3]
+    return salidas
+    // return nnSalida[0]>=nnSalida[1];
 }
 
 
@@ -154,30 +166,62 @@ function update() {
     estatuSuelo = 1;
     estatusAire = 0;
 
+    estatusAtras = 0;
+    estatusAdelante = 0;
+
     if(!jugador.body.onFloor()) {
         estatuSuelo = 0;
         estatusAire = 1;
     }
 	
     despBala = Math.floor( jugador.position.x - bala.position.x );
+    despBala2 = Math.floor( jugador.position.y - bala2.position.y );
+    dirBala2 = Math.floor( jugador.position.x - bala2.position.x );
 
     if (modoAuto==false && moveLeft.isDown) {
         jugador.body.velocity.x = -200;
+        estatusAtras = 1;
+        estatusAdelante = 0;
     } else if (modoAuto==false && moveRight.isDown) {
         jugador.body.velocity.x = 200;
+        estatusAtras = 0;
+        estatusAdelante = 1;
     } else {
         jugador.body.velocity.x = 0;
+        estatusAtras = 0;
+        estatusAdelante = 0;
     }
+
+    actualPosX = jugador.position.x;
 
     if( modoAuto==false && salto.isDown &&  jugador.body.onFloor() ){
         saltar();
     }
-    
-    if( modoAuto == true  && bala.position.x>0 && jugador.body.onFloor()) {
 
-        if( datosDeEntrenamiento( [despBala , velocidadBala] )  ){
+    if( modoAuto == true) {
+        var bot = datosDeEntrenamiento( [despBala , velocidadBala, despBala2, dirBala2, actualPosX] )
+        if (bot[0] >= 0 && jugador.body.onFloor()) {
             saltar();
         }
+        if ( bot[1] > 10 || bot[1] < 10 ){
+            if ( bot[1] > 0 ){
+                jugador.body.velocity.x = -200;
+            }
+            else {
+                jugador.body.velocity.x = 200;
+            }
+        }
+    }
+    
+    // if( modoAuto == true  && bala.position.x>0 && jugador.body.onFloor()) {
+
+    //     if( datosDeEntrenamiento( [despBala , velocidadBala, jugador.position.x] )  ){
+    //         saltar();
+    //     }
+    // }
+
+    if( modoAuto == true  && bala2.position.y>0 ) {
+
     }
 
     if( balaD==false ){
@@ -196,12 +240,14 @@ function update() {
     if( modoAuto ==false  && bala.position.x > 0 ){
 
         datosEntrenamiento.push({
-                'input' :  [despBala , velocidadBala],
-                'output':  [estatusAire , estatuSuelo ]  
+                'input' :  [despBala , velocidadBala, despBala2, dirBala2, actualPosX ],
+                'output':  [estatusAire , estatuSuelo, estatusAtras, estatusAdelante ]
         });
 
-        console.log("Desplazamiento Bala, Velocidad Bala, Estatus, Estatus: ",
-            despBala + " " +velocidadBala + " "+ estatusAire+" "+  estatuSuelo);
+        console.log("Desplazamiento Bala, Velocidad Bala, Dezplazamiento Bala 2, Dif Bala 2: ");
+        console.log( despBala + " " +velocidadBala + " " + despBala2 + " " + dirBala2);
+        console.log("Aire, Suelo, Atras, Adelante: ");
+        console.log(estatusAire+" "+  estatuSuelo + " " + estatusAtras + " " + estatusAdelante);
    }
 
 }
