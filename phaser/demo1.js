@@ -16,8 +16,9 @@ var velocidadBala;
 var despBala;
 var despBala2;
 var dirBala2;
-var estatusAire;
-var estatuSuelo;
+// var estatusAire;
+// var estatuSuelo;
+var estatusSalto;
 var estatusAtras;
 var estatusAdelante;
 
@@ -75,7 +76,7 @@ function create() {
     salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
     
-    nnNetwork =  new synaptic.Architect.Perceptron(5, 3, 3, 3, 4);
+    nnNetwork =  new synaptic.Architect.Perceptron(5, 3, 3, 3, 3);
     nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 
 }
@@ -96,8 +97,9 @@ function datosDeEntrenamiento(param_entrada){
     console.log("Valor ","En el Aire %: "+ aire + " En el suelo %: " + piso );
     console.log("Valor ","Atras %: "+ atras + " Adelante %: " + adelante );
     var salidas = []
-    salidas[0] = nnSalida[0] - nnSalida[1]
-    salidas[1] = nnSalida[2] - nnSalida[3]
+    // salidas[0] = nnSalida[0] - nnSalida[1]
+    salidas[0] = nnSalida[0]
+    salidas[1] = nnSalida[1] - nnSalida[2]
     return salidas
     // return nnSalida[0]>=nnSalida[1];
 }
@@ -161,17 +163,19 @@ function update() {
     fondo.tilePosition.x -= 1; 
 
     juego.physics.arcade.collide(bala, jugador, colisionH, null, this);
-    juego.physics.arcade.collide(bala2, jugador, colisionH, null, this);
+    //juego.physics.arcade.collide(bala2, jugador, colisionH, null, this);
 
-    estatuSuelo = 1;
-    estatusAire = 0;
+    // estatuSuelo = 1;
+    // estatusAire = 0;
+    estatusSalto = 0;
 
     estatusAtras = 0;
     estatusAdelante = 0;
 
     if(!jugador.body.onFloor()) {
-        estatuSuelo = 0;
-        estatusAire = 1;
+        // estatuSuelo = 0;
+        // estatusAire = 1;
+        estatusSalto = 1;
     }
 	
     despBala = Math.floor( jugador.position.x - bala.position.x );
@@ -200,7 +204,7 @@ function update() {
 
     if( modoAuto == true) {
         var bot = datosDeEntrenamiento( [despBala , velocidadBala, despBala2, dirBala2, actualPosX] )
-        if (bot[0] >= 0 && jugador.body.onFloor()) {
+        if (bot[0] > 0.6 && jugador.body.onFloor()) {
             saltar();
         }
         if ( bot[1] > 10 || bot[1] < 10 ){
@@ -241,13 +245,13 @@ function update() {
 
         datosEntrenamiento.push({
                 'input' :  [despBala , velocidadBala, despBala2, dirBala2, actualPosX ],
-                'output':  [estatusAire , estatuSuelo, estatusAtras, estatusAdelante ]
+                'output':  [estatusSalto, estatusAtras, estatusAdelante ]
         });
 
         console.log("Desplazamiento Bala, Velocidad Bala, Dezplazamiento Bala 2, Dif Bala 2: ");
         console.log( despBala + " " +velocidadBala + " " + despBala2 + " " + dirBala2);
-        console.log("Aire, Suelo, Atras, Adelante: ");
-        console.log(estatusAire+" "+  estatuSuelo + " " + estatusAtras + " " + estatusAdelante);
+        console.log("Salto, Atras, Adelante: ");
+        console.log(estatusSalto + " " + estatusAtras + " " + estatusAdelante);
    }
 
 }
