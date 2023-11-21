@@ -76,7 +76,7 @@ function create() {
     salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
     
-    nnNetwork =  new synaptic.Architect.Perceptron(5, 3, 3, 3, 3);
+    nnNetwork =  new synaptic.Architect.Perceptron(4, 6, 6, 3);
     nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 
 }
@@ -90,11 +90,11 @@ function datosDeEntrenamiento(param_entrada){
 
     console.log("Entrada",param_entrada[0]+" "+param_entrada[1]+" "+param_entrada[2]+" "+param_entrada[3]);
     nnSalida = nnNetwork.activate(param_entrada);
-    var aire=Math.round( nnSalida[0]*100 );
-    var piso=Math.round( nnSalida[1]*100 );
-    var atras=Math.round( nnSalida[2]*100 );
-    var adelante=Math.round( nnSalida[3]*100 );
-    console.log("Valor ","En el Aire %: "+ aire + " En el suelo %: " + piso );
+    var salto=Math.round( nnSalida[0]*100 );
+    // var piso=Math.round( nnSalida[1]*100 );
+    var atras=Math.round( nnSalida[1]*100 );
+    var adelante=Math.round( nnSalida[2]*100 );
+    console.log("Valor ","En el salto %: "+ salto );
     console.log("Valor ","Atras %: "+ atras + " Adelante %: " + adelante );
     var salidas = []
     // salidas[0] = nnSalida[0] - nnSalida[1]
@@ -196,18 +196,19 @@ function update() {
         estatusAdelante = 0;
     }
 
-    actualPosX = jugador.position.x;
+    // actualPosX = jugador.position.x;
 
     if( modoAuto==false && salto.isDown &&  jugador.body.onFloor() ){
         saltar();
     }
 
     if( modoAuto == true) {
-        var bot = datosDeEntrenamiento( [despBala , velocidadBala, despBala2, dirBala2, actualPosX] )
+        var bot = datosDeEntrenamiento( [despBala , velocidadBala, despBala2, dirBala2] )
         if (bot[0] > 0.6 && jugador.body.onFloor()) {
             saltar();
         }
-        if ( bot[1] > 10 || bot[1] < 10 ){
+        if ( Math.abs(bot[1]) > 10 ){ 
+            // console.log("bot[1]: ", bot[1])
             if ( bot[1] > 0 ){
                 jugador.body.velocity.x = -200;
             }
@@ -244,11 +245,11 @@ function update() {
     if( modoAuto ==false  && bala.position.x > 0 ){
 
         datosEntrenamiento.push({
-                'input' :  [despBala , velocidadBala, despBala2, dirBala2, actualPosX ],
+                'input' :  [despBala , velocidadBala, despBala2, dirBala2 ],
                 'output':  [estatusSalto, estatusAtras, estatusAdelante ]
         });
 
-        console.log("Desplazamiento Bala, Velocidad Bala, Dezplazamiento Bala 2, Dif Bala 2: ");
+        console.log("Bala1 X, Bala1 Speed, Bala2 Y, Bala2 X: ");
         console.log( despBala + " " +velocidadBala + " " + despBala2 + " " + dirBala2);
         console.log("Salto, Atras, Adelante: ");
         console.log(estatusSalto + " " + estatusAtras + " " + estatusAdelante);
