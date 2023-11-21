@@ -3,19 +3,20 @@ var h=400;
 var jugador;
 var fondo;
 
-var bala, bala2, balaD=false, nave;
+var bala, balaD=false, nave;
 
 var salto;
 var menu;
 
 var moveLeft
 var moveRight
-var actualPosX
+// var actualPosX
 
 var velocidadBala;
 var despBala;
-var despBala2;
-var dirBala2;
+var modeD = true;
+// var despBala2;
+// var dirBala2;
 // var estatusAire;
 // var estatuSuelo;
 var estatusSalto;
@@ -51,10 +52,10 @@ function create() {
     bala = juego.add.sprite(w-100, h, 'bala');
     jugador = juego.add.sprite(50, h, 'mono');
 
-    bala2 = juego.add.sprite(jugador.x, 0, 'bala');
-    juego.physics.enable(bala2);
-    bala2.body.velocity.y = 300;
-    bala2.body.collideWorldBounds = true;
+    // bala2 = juego.add.sprite(jugador.x, 0, 'bala');
+    // juego.physics.enable(bala2);
+    // bala2.body.velocity.y = 300;
+    // bala2.body.collideWorldBounds = true;
 
 
     juego.physics.enable(jugador);
@@ -76,7 +77,7 @@ function create() {
     salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
     
-    nnNetwork =  new synaptic.Architect.Perceptron(4, 6, 6, 3);
+    nnNetwork =  new synaptic.Architect.Perceptron(2, 6, 6, 3);
     nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 
 }
@@ -144,11 +145,19 @@ function mPausa(event){
 
 
 function resetVariables(){
+    modeD = Math.random() < 0.5
+    if (modeD) {
+        bala.position.x = w-100;
+        bala.position.y = h;
+    }
+    else {
+        bala.position.x = 50;
+        bala.position.y = 0;
+    }
+    bala.body.velocity.x = 0;
     jugador.body.velocity.x=0;
     jugador.body.velocity.y=0;
-    bala.body.velocity.x = 0;
-    bala.position.x = w-100;
-    // jugador.position.x=50;
+    jugador.position.x=50;
     balaD=false;
 }
 
@@ -179,8 +188,8 @@ function update() {
     }
 	
     despBala = Math.floor( jugador.position.x - bala.position.x );
-    despBala2 = Math.floor( jugador.position.y - bala2.position.y );
-    dirBala2 = Math.floor( jugador.position.x - bala2.position.x );
+    // despBala2 = Math.floor( jugador.position.y - bala2.position.y );
+    // dirBala2 = Math.floor( jugador.position.x - bala2.position.x );
 
     if (modoAuto==false && moveLeft.isDown) {
         jugador.body.velocity.x = -200;
@@ -203,12 +212,12 @@ function update() {
     }
 
     if( modoAuto == true) {
-        var bot = datosDeEntrenamiento( [despBala , velocidadBala, despBala2, dirBala2] )
+        var bot = datosDeEntrenamiento( [despBala , velocidadBala] )
         if (bot[0] > 0.6 && jugador.body.onFloor()) {
             saltar();
         }
-        if ( Math.abs(bot[1]) > 10 ){ 
-            // console.log("bot[1]: ", bot[1])
+        console.log("bot[1]: ", bot[1])
+        if ( Math.abs(bot[1]) > 0.4 ){ 
             if ( bot[1] > 0 ){
                 jugador.body.velocity.x = -200;
             }
@@ -225,9 +234,9 @@ function update() {
     //     }
     // }
 
-    if( modoAuto == true  && bala2.position.y>0 ) {
+    // if( modoAuto == true  && bala2.position.y>0 ) {
 
-    }
+    // }
 
     if( balaD==false ){
         disparo();
@@ -237,20 +246,19 @@ function update() {
         resetVariables();
     }
 
-    if (bala2.body.onFloor()) {
-        bala2.x = jugador.x;
-        bala2.y = 0;
+    if (bala.body.onFloor() && !modeD) {
+        resetVariables();
     }
     
     if( modoAuto ==false  && bala.position.x > 0 ){
 
         datosEntrenamiento.push({
-                'input' :  [despBala , velocidadBala, despBala2, dirBala2 ],
+                'input' :  [despBala , velocidadBala],
                 'output':  [estatusSalto, estatusAtras, estatusAdelante ]
         });
 
-        console.log("Bala1 X, Bala1 Speed, Bala2 Y, Bala2 X: ");
-        console.log( despBala + " " +velocidadBala + " " + despBala2 + " " + dirBala2);
+        console.log("Bala1 X, Bala1 Speed");
+        console.log( despBala + " " +velocidadBala);
         console.log("Salto, Atras, Adelante: ");
         console.log(estatusSalto + " " + estatusAtras + " " + estatusAdelante);
    }
@@ -260,14 +268,20 @@ function update() {
 
 function disparo(){
     velocidadBala =  -1 * velocidadRandom(300,800);
-    bala.body.velocity.y = 0 ;
-    bala.body.velocity.x = velocidadBala ;
+    if (modeD) {
+        bala.body.velocity.y = 0 ;
+        bala.body.velocity.x = velocidadBala ;
+    }
+    else {
+        bala.body.velocity.y = velocidadBala ;
+        bala.body.velocity.x = 0 ;
+    }
     balaD=true;
 }
 
 function colisionH(){
-    bala2.y = 0;
-    bala2.x = jugador.x;
+    // bala2.y = 0;
+    // bala2.x = jugador.x;
     pausa();
 }
 
