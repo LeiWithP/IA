@@ -2,7 +2,7 @@
 
 # [HaarCascade]()
 
-# [Phaser]()
+# [Phaser](https://github.com/LeiWithP/IA/blob/main/phaser/demo1.js)
 
 ## [1 Introducción a la Inteligencia Artificial Actividad 1 Practica 1](https://github.com/LeiWithP/IA/blob/main/Tarea1.md)
 > #### [Ensayo Inteligencia artificial un enfoque moderno](https://github.com/LeiWithP/IA/blob/main/Tarea1.md#ensayo-inteligencia-artificial-un-enfoque-moderno)
@@ -54,6 +54,6 @@
 > #### [Tres Misioneros](https://github.com/LeiWithP/IA/blob/main/Tarea8.md#tres-misioneros)
 
 
-### [9 Generación de Dataset]()
-> #### [Generador Markdown]()
-> #### [Jupiter Notebook Code]()
+### [9 Generación de Dataset](https://github.com/LeiWithP/IA/blob/main/Tarea9.md)
+> #### [Generador Markdown](https://github.com/LeiWithP/IA/blob/main/Tarea9.md#estandarizar-tama%C3%B1o)
+> #### [Jupiter Notebook Code](https://github.com/LeiWithP/IA/blob/main/CodigoTarea9.ipynb)
