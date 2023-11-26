@@ -17,6 +17,7 @@ var velocidadBala;
 var despBala;
 var despBalaY;
 var modeD = true;
+var lockMode = true;
 var estatusSalto;
 var estatusAtras;
 var estatusAdelante;
@@ -74,7 +75,7 @@ function create() {
 
   salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
-  nnNetwork = new synaptic.Architect.Perceptron(3, 6, 6, 3);
+  nnNetwork = new synaptic.Architect.Perceptron(3, 8, 3);
   nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 }
 
@@ -159,7 +160,10 @@ function mPausa(event) {
 }
 
 function resetVariables() {
-  modeD = Math.random() < 0.5;
+  if (!lockMode) {
+    lockMode = true;
+    modeD = Math.random() < 0.5;
+  }
   if (modeD) {
     bala.position.x = w - 100;
     bala.position.y = h;
@@ -176,6 +180,7 @@ function resetVariables() {
 
 function saltar() {
   jugador.body.velocity.y = -270;
+  lockMode = false;
 }
 
 function update() {
@@ -193,6 +198,8 @@ function update() {
 
   despBala = Math.floor(jugador.position.x - bala.position.x);
   despBalaY = Math.floor(jugador.position.y - bala.position.y);
+
+  if (moveLeft || moveRight) lockMode = false;
 
   if (modoAuto == false && moveLeft.isDown) {
     jugador.body.velocity.x = -200;
