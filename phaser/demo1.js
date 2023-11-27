@@ -16,7 +16,10 @@ var moveRight;
 var velocidadBala;
 var despBala;
 var despBalaY;
-var modeD = true;
+var waitFor = 0;
+var waitFall = 0;
+var isFalling = true;
+// var modeD = true;
 //var lockMode = true;
 var estatusSalto;
 var estatusAtras;
@@ -52,6 +55,7 @@ function create() {
   fondo = juego.add.tileSprite(0, 0, w, h, "fondo");
   nave = juego.add.sprite(w - 100, h - 70, "nave");
   bala = juego.add.sprite(w - 100, h, "bala");
+  balaFall = juego.add.sprite(50, h - 500, "bala");
   jugador = juego.add.sprite(50, h, "mono");
 
   juego.physics.enable(jugador);
@@ -60,7 +64,9 @@ function create() {
   jugador.animations.play("corre", 10, true);
 
   juego.physics.enable(bala);
+  juego.physics.enable(balaFall);
   bala.body.collideWorldBounds = true;
+  balaFall.body.collideWorldBounds = true;
 
   moveLeft = juego.input.keyboard.addKey(Phaser.Keyboard.LEFT);
   moveRight = juego.input.keyboard.addKey(Phaser.Keyboard.RIGHT);
@@ -75,7 +81,7 @@ function create() {
 
   salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
-  nnNetwork = new synaptic.Architect.Perceptron(3, 8, 3);
+  nnNetwork = new synaptic.Architect.Perceptron(3, 6, 6, 3);
   nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 }
 
@@ -174,8 +180,19 @@ function resetVariables() {
   bala.body.velocity.x = 0;
   jugador.body.velocity.x = 0;
   jugador.body.velocity.y = 0;
-  jugador.position.x = 50;
+  // jugador.position.x = 50;
   balaD = false;
+}
+
+function resetFall(playerPosX) {
+  balaFall.position.x = playerPosX;
+  balaFall.position.y = h - 500;
+  waitFall++;
+  if(waitFall > waitFor){
+    isFalling = true;
+    waitFall = 0;
+    waitFor= velocidadRandom(10, 70)
+  }
 }
 
 function saltar() {
@@ -187,6 +204,7 @@ function update() {
   fondo.tilePosition.x -= 1;
 
   juego.physics.arcade.collide(bala, jugador, colisionH, null, this);
+  juego.physics.arcade.collide(balaFall, jugador, colisionH, null, this);
   estatusSalto = 0;
 
   estatusAtras = 0;
@@ -197,7 +215,11 @@ function update() {
   }
 
   despBala = Math.floor(jugador.position.x - bala.position.x);
-  despBalaY = Math.floor(jugador.position.y - bala.position.y);
+  despBalaY = Math.floor(jugador.position.y - balaFall.position.y);
+
+  if(!isFalling) {
+    resetFall(jugador.position.x);
+  }
 
   // if (moveLeft || moveRight) lockMode = false;
 
@@ -242,8 +264,8 @@ function update() {
     resetVariables();
   }
 
-  if (bala.body.onFloor() && !modeD) {
-    resetVariables();
+  if (balaFall.body.onFloor()) {
+    isFalling = false;
   }
 
   if (modoAuto == false && bala.position.x > 0) {
