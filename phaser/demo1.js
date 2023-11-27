@@ -16,11 +16,10 @@ var moveRight;
 var velocidadBala;
 var despBala;
 var despBalaY;
+var difBalaY;
 var waitFor = 0;
 var waitFall = 0;
 var isFalling = true;
-// var modeD = true;
-//var lockMode = true;
 var estatusSalto;
 var estatusAtras;
 var estatusAdelante;
@@ -81,7 +80,7 @@ function create() {
 
   salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
-  nnNetwork = new synaptic.Architect.Perceptron(3, 6, 6, 3);
+  nnNetwork = new synaptic.Architect.Perceptron(4, 8, 8, 3);
   nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 }
 
@@ -96,7 +95,13 @@ function enRedNeural() {
 function datosDeEntrenamiento(param_entrada) {
   console.log(
     "Entrada",
-    param_entrada[0] + " " + param_entrada[1] + " " + param_entrada[2]
+    param_entrada[0] +
+      " " +
+      param_entrada[1] +
+      " " +
+      param_entrada[2] +
+      " " +
+      param_entrada[3]
   );
   nnSalida = nnNetwork.activate(param_entrada);
   var salto = Math.round(nnSalida[0] * 100);
@@ -159,6 +164,7 @@ function mPausa(event) {
       }
 
       menu.destroy();
+      resetFall(50);
       resetVariables();
       juego.paused = false;
     }
@@ -166,17 +172,8 @@ function mPausa(event) {
 }
 
 function resetVariables() {
-  // if (!lockMode) {
-  //   lockMode = true;
-  //   modeD = Math.random() < 0.5;
-  // }
-  // if (modeD) {
-    bala.position.x = w - 100;
-    bala.position.y = h;
-  // } else {
-  //   bala.position.x = 50;
-  //   bala.position.y = 0;
-  // }
+  bala.position.x = w - 100;
+  bala.position.y = h;
   bala.body.velocity.x = 0;
   jugador.body.velocity.x = 0;
   jugador.body.velocity.y = 0;
@@ -188,16 +185,15 @@ function resetFall(playerPosX) {
   balaFall.position.x = playerPosX;
   balaFall.position.y = h - 500;
   waitFall++;
-  if(waitFall > waitFor){
+  if (waitFall > waitFor) {
     isFalling = true;
     waitFall = 0;
-    waitFor= velocidadRandom(10, 70)
+    waitFor = velocidadRandom(10, 70);
   }
 }
 
 function saltar() {
   jugador.body.velocity.y = -270;
-  // lockMode = false;
 }
 
 function update() {
@@ -216,12 +212,11 @@ function update() {
 
   despBala = Math.floor(jugador.position.x - bala.position.x);
   despBalaY = Math.floor(jugador.position.y - balaFall.position.y);
+  difBalaY = Math.floor(jugador.position.x - balaFall.position.x);
 
-  if(!isFalling) {
+  if (!isFalling) {
     resetFall(jugador.position.x);
   }
-
-  // if (moveLeft || moveRight) lockMode = false;
 
   if (modoAuto == false && moveLeft.isDown) {
     jugador.body.velocity.x = -200;
@@ -242,7 +237,12 @@ function update() {
   }
 
   if (modoAuto == true) {
-    var bot = datosDeEntrenamiento([despBala, velocidadBala, despBalaY]);
+    var bot = datosDeEntrenamiento([
+      despBala,
+      velocidadBala,
+      despBalaY,
+      difBalaY,
+    ]);
     if (bot[0] > 0.6 && jugador.body.onFloor()) {
       saltar();
     }
@@ -270,12 +270,14 @@ function update() {
 
   if (modoAuto == false && bala.position.x > 0) {
     datosEntrenamiento.push({
-      input: [despBala, velocidadBala, despBalaY],
+      input: [despBala, velocidadBala, despBalaY, difBalaY],
       output: [estatusSalto, estatusAtras, estatusAdelante],
     });
 
-    console.log("Bala X, Bala Speed, Bala Y, ");
-    console.log(despBala + " " + velocidadBala + " " + despBalaY);
+    console.log("Bala X, Bala Speed, Bala Y, Dif Caida X");
+    console.log(
+      despBala + " " + velocidadBala + " " + despBalaY + " " + difBalaY
+    );
     console.log("Salto, Atras, Adelante: ");
     console.log(estatusSalto + " " + estatusAtras + " " + estatusAdelante);
   }
@@ -283,13 +285,8 @@ function update() {
 
 function disparo() {
   velocidadBala = -1 * velocidadRandom(300, 800);
-  // if (modeD) {
-    bala.body.velocity.y = 0;
-    bala.body.velocity.x = velocidadBala;
-  // } else {
-  //   bala.body.velocity.y = velocidadBala;
-  //   bala.body.velocity.x = 0;
-  // }
+  bala.body.velocity.y = 0;
+  bala.body.velocity.x = velocidadBala;
   balaD = true;
 }
 
