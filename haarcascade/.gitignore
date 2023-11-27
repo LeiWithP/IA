@@ -1,3 +1,4 @@
 *
 !.gitignore
 !captura.ipynb
+!haarcascade_frontalface_alt.xml
