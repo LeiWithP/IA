@@ -17,7 +17,7 @@ var velocidadBala;
 var despBala;
 var despBalaY;
 var modeD = true;
-var lockMode = true;
+//var lockMode = true;
 var estatusSalto;
 var estatusAtras;
 var estatusAdelante;
@@ -160,17 +160,17 @@ function mPausa(event) {
 }
 
 function resetVariables() {
-  if (!lockMode) {
-    lockMode = true;
-    modeD = Math.random() < 0.5;
-  }
-  if (modeD) {
+  // if (!lockMode) {
+  //   lockMode = true;
+  //   modeD = Math.random() < 0.5;
+  // }
+  // if (modeD) {
     bala.position.x = w - 100;
     bala.position.y = h;
-  } else {
-    bala.position.x = 50;
-    bala.position.y = 0;
-  }
+  // } else {
+  //   bala.position.x = 50;
+  //   bala.position.y = 0;
+  // }
   bala.body.velocity.x = 0;
   jugador.body.velocity.x = 0;
   jugador.body.velocity.y = 0;
@@ -180,7 +180,7 @@ function resetVariables() {
 
 function saltar() {
   jugador.body.velocity.y = -270;
-  lockMode = false;
+  // lockMode = false;
 }
 
 function update() {
@@ -199,7 +199,7 @@ function update() {
   despBala = Math.floor(jugador.position.x - bala.position.x);
   despBalaY = Math.floor(jugador.position.y - bala.position.y);
 
-  if (moveLeft || moveRight) lockMode = false;
+  // if (moveLeft || moveRight) lockMode = false;
 
   if (modoAuto == false && moveLeft.isDown) {
     jugador.body.velocity.x = -200;
@@ -252,7 +252,7 @@ function update() {
       output: [estatusSalto, estatusAtras, estatusAdelante],
     });
 
-    console.log("Bala X, Bala Speed, Bala Y");
+    console.log("Bala X, Bala Speed, Bala Y, ");
     console.log(despBala + " " + velocidadBala + " " + despBalaY);
     console.log("Salto, Atras, Adelante: ");
     console.log(estatusSalto + " " + estatusAtras + " " + estatusAdelante);
@@ -261,13 +261,13 @@ function update() {
 
 function disparo() {
   velocidadBala = -1 * velocidadRandom(300, 800);
-  if (modeD) {
+  // if (modeD) {
     bala.body.velocity.y = 0;
     bala.body.velocity.x = velocidadBala;
-  } else {
-    bala.body.velocity.y = velocidadBala;
-    bala.body.velocity.x = 0;
-  }
+  // } else {
+  //   bala.body.velocity.y = velocidadBala;
+  //   bala.body.velocity.x = 0;
+  // }
   balaD = true;
 }
 
