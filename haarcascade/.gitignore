@@ -1,5 +1,5 @@
 *
 !.gitignore
 !captura.ipynb
-!cubrebocas.xml
+!cubrebocas*.xml
 !haarcascade_frontalface_alt.xml
