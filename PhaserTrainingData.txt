@@ -1,0 +1,4036 @@
+Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -650 -494 500 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -650 -494 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -634 -494 351 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -618 -494 349 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -601 -494 346 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -585 -494 343 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -568 -494 338 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -552 -494 333 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -535 -494 327 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -519 -494 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -496 -494 312 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -472 -494 303 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -449 -494 293 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -426 -494 282 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -403 -494 271 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -380 -494 258 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -357 -494 245 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -334 -494 231 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -311 -494 216 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -287 -494 200 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -264 -494 183 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -248 -494 165 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -231 -494 146 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -215 -494 127 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -198 -494 106 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -182 -494 85 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -165 -494 55 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -149 -494 24 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -133 -494 -6 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -116 -494 -36 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -100 -494 -63 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -83 -494 416 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -67 -494 313 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -50 -494 411 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -34 -494 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -17 -494 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -1 -494 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 16 -494 412 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 32 -494 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 49 -494 418 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 58 -494 324 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 68 -494 428 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 78 -494 335 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 88 -494 441 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 90 -494 350 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -617 -517 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -617 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -607 -517 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -596 -517 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -585 -517 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -575 -517 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -558 -517 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -540 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -523 -517 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -506 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -489 -517 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -471 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -454 -517 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -437 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -420 -517 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -403 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -385 -517 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -368 -517 350 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -351 -517 347 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -334 -517 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -316 -517 339 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -299 -517 334 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -282 -517 328 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -265 -517 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -247 -517 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -230 -517 304 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -213 -517 294 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -196 -517 283 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -179 -517 272 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -161 -517 259 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -144 -517 238 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -127 -517 216 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -110 -517 195 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -92 -517 173 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -68 -517 152 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -45 -517 130 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -21 -517 109 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 3 -517 88 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 27 -517 66 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 51 -517 45 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 75 -517 23 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 99 -517 2 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 116 -517 -20 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -584 -459 -41 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -584 -459 -63 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -569 -459 422 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -553 -459 324 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -545 -459 427 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -536 -459 333 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -527 -459 437 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -519 -459 345 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -510 -459 450 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -501 -459 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -493 -459 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -484 -459 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -476 -459 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -467 -459 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -458 -459 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -443 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -428 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -412 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -397 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -382 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -366 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -351 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -336 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -321 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -305 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -290 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -275 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -259 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -244 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -229 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -213 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -198 -459 350 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -183 -459 339 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -168 -459 328 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -152 -459 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -137 -459 307 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -122 -459 296 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -106 -459 285 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -91 -459 274 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -76 -459 264 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -60 -459 253 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -45 -459 242 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -30 -459 231 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -15 -459 220 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 1 -459 210 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 23 -459 199 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 45 -459 188 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 63 -459 177 19
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -573 167 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -573 150 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -605 -573 133 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -579 -573 116 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -553 -573 99 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -527 -573 82 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -508 -573 64 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -489 -573 40 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -470 -573 16 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -451 -573 -8 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -432 -573 -31 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -413 -573 452 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -394 -573 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -381 -573 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -369 -573 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -356 -573 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -344 -573 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -332 -573 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -319 -573 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -307 -573 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -294 -573 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -282 -573 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -263 -573 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -244 -573 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -225 -573 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -205 -573 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -186 -573 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -167 -573 435 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -148 -573 331 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -129 -573 424 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -110 -573 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -91 -573 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -72 -573 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -53 -573 411 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -34 -573 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -14 -573 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 5 -573 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 24 -573 412 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 36 -573 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -664 -490 418 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -664 -490 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -647 -490 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -631 -490 322 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -615 -490 322 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -598 -490 323 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -582 -490 324 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -566 -490 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -549 -490 326 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -533 -490 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -517 -490 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -500 -490 303 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -484 -490 293 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -468 -490 282 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -451 -490 271 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -435 -490 258 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -419 -490 245 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -396 -490 231 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -373 -490 216 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -350 -490 200 19
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -327 -490 183 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -304 -490 165 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -281 -490 146 39
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -258 -490 127 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -235 -490 106 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -218 -490 85 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -202 -490 63 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -192 -490 40 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -183 -490 16 39
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -173 -490 -9 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -163 -490 -31 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -154 -490 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -144 -490 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -134 -490 443 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -125 -490 337 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -115 -490 429 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -99 -490 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -82 -490 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -66 -490 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -50 -490 413 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -33 -490 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -17 -490 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -1 -490 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 16 -490 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 30 -490 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -670 -467 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -670 -467 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -655 -467 417 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -639 -467 322 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -624 -467 423 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -608 -467 330 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -593 -467 433 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -577 -467 341 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -562 -467 447 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -546 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -530 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -515 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -499 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -484 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -468 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -453 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -437 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -421 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -406 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -390 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -375 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -359 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -344 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -328 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -312 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -297 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -281 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -266 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -250 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -235 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -219 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -203 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -188 -467 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -172 -467 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -157 -467 443 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -141 -467 336 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -126 -467 329 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -110 -467 322 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -95 -467 315 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -79 -467 307 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -63 -467 300 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -48 -467 293 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -32 -467 286 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -17 -467 278 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -1 -467 271 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 14 -467 264 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 30 -467 257 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -670 -432 250 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -670 -432 239 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -656 -432 228 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -635 -432 218 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -614 -432 207 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -593 -432 196 19
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -572 -432 186 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -551 -432 175 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -530 -432 164 39
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -509 -432 146 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -488 -432 127 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -467 -432 106 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -445 -432 85 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -424 -432 63 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -403 -432 40 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -389 -432 16 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -375 -432 -9 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -360 -432 -31 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -352 -432 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -345 -432 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -337 -432 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -329 -432 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -321 -432 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -314 -432 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -306 -432 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -298 -432 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -291 -432 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -276 -432 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -262 -432 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -247 -432 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -233 -432 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -219 -432 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -204 -432 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -190 -432 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -175 -432 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -161 -432 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -147 -432 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -132 -432 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -118 -432 435 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -103 -432 331 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -89 -432 424 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -75 -432 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -60 -432 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -46 -432 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -31 -432 411 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -17 -432 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -3 -432 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 12 -432 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 26 -432 412 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 41 -432 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 50 -432 418 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -650 -534 324 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -650 -534 423 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -633 -534 326 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -615 -534 328 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -597 -534 329 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -579 -534 331 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -562 -534 333 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -544 -534 335 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -526 -534 333 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -508 -534 327 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -490 -534 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -473 -534 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -455 -534 303 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -437 -534 293 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -419 -534 282 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -401 -534 271 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -384 -534 258 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -359 -534 245 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -335 -534 231 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -310 -534 216 19
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -286 -534 200 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -261 -534 183 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -237 -534 165 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -212 -534 146 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -188 -534 127 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -163 -534 106 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -146 -534 85 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -128 -534 55 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -110 -534 24 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -92 -534 -6 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -74 -534 -36 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -57 -534 -63 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -39 -534 416 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -21 -534 313 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -10 -534 411 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 1 -534 311 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 12 -534 410 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 24 -534 312 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 35 -534 412 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 46 -534 316 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 57 -534 418 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 56 -534 324 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -650 -465 428 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -650 -465 330 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -635 -465 430 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -619 -465 335 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -604 -465 436 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -588 -465 343 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -573 -465 446 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -557 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -542 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -526 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -511 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -495 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -480 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -464 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -449 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -433 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -418 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -402 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -387 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -371 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -356 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -340 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -325 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -309 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -294 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -278 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -263 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -247 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -232 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -216 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -201 -465 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -185 -465 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -170 -465 443 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -154 -465 337 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -139 -465 429 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -123 -465 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -108 -465 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -92 -465 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -77 -465 413 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -61 -465 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -46 -465 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -30 -465 310 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -8 -465 310 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 14 -465 310 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 36 -465 310 19
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 58 -465 310 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 80 -465 310 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 90 -465 310 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -604 -593 310 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -604 -593 303 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -577 -593 297 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -551 -593 291 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -525 -593 285 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -498 -593 279 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -472 -593 271 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -445 -593 258 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -425 -593 245 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -406 -593 231 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -386 -593 216 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -366 -593 200 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -346 -593 183 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -327 -593 165 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -307 -593 146 86
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -294 -593 127 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -281 -593 106 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -268 -593 85 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -254 -593 63 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -241 -593 40 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -228 -593 16 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -215 -593 -9 39
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -202 -593 -31 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -189 -593 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -176 -593 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -163 -593 443 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -143 -593 337 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -123 -593 429 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -103 -593 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -84 -593 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -64 -593 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -44 -593 413 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -24 -593 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -5 -593 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 15 -593 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 35 -593 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 55 -593 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 63 -593 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -637 -459 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -637 -459 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -622 -459 322 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -607 -459 423 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -591 -459 329 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -576 -459 431 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -561 -459 338 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -545 -459 443 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -530 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -515 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -499 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -484 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -469 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -454 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -438 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -423 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -408 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -392 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -377 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -362 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -346 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -331 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -316 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -301 -459 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -285 -459 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -270 -459 351 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -255 -459 349 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -239 -459 346 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -224 -459 343 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -209 -459 338 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -193 -459 333 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -178 -459 327 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -163 -459 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -148 -459 296 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -132 -459 281 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -117 -459 266 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -102 -459 251 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -86 -459 235 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -71 -459 220 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -56 -459 205 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -34 -459 190 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -12 -459 174 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 10 -459 159 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 32 -459 144 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 54 -459 129 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 76 -459 114 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 98 -459 98 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 116 -459 83 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -577 -471 68 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -577 -471 47 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -555 -471 25 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -532 -471 4 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -517 -471 -17 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -501 -471 -35 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -485 -471 452 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -476 -471 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -467 -471 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -458 -471 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -449 -471 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -440 -471 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -431 -471 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -422 -471 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -413 -471 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -404 -471 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -395 -471 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -386 -471 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -370 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -355 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -339 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -323 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -307 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -292 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -276 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -260 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -245 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -229 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -213 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -198 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -182 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -166 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -150 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -135 -471 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -119 -471 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -103 -471 343 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -88 -471 335 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -72 -471 327 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -56 -471 319 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -41 -471 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -25 -471 303 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -9 -471 295 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 7 -471 287 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 22 -471 279 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 38 -471 270 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 54 -471 262 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 63 -471 254 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -637 -555 246 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -637 -555 235 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -619 -555 225 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -600 -555 214 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -582 -555 203 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -563 -555 193 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -538 -555 182 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -513 -555 171 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -488 -555 161 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -462 -555 146 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -437 -555 127 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -412 -555 106 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -387 -555 85 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -362 -555 63 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -337 -555 40 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -311 -555 16 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -293 -555 -9 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -274 -555 -31 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -263 -555 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -251 -555 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -239 -555 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -227 -555 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -215 -555 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -203 -555 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -192 -555 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -180 -555 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -161 -555 443 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -143 -555 337 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -124 -555 429 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -106 -555 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -87 -555 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -69 -555 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -50 -555 413 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -32 -555 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -13 -555 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 5 -555 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 24 -555 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 42 -555 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 61 -555 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 76 -555 319 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -624 -467 322 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -624 -467 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -608 -467 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -593 -467 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -577 -467 319 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -562 -467 318 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -546 -467 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -530 -467 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -515 -467 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -499 -467 303 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -484 -467 293 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -468 -467 282 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -453 -467 271 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -437 -467 258 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -421 -467 245 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -406 -467 231 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -390 -467 216 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -368 -467 200 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -346 -467 183 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -324 -467 165 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -301 -467 146 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -279 -467 127 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -257 -467 106 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -235 -467 85 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -212 -467 63 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -190 -467 40 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -175 -467 16 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -159 -467 -9 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -144 -467 -31 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -135 -467 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -126 -467 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -117 -467 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -108 -467 344 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -99 -467 435 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -90 -467 331 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -81 -467 424 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -72 -467 321 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -63 -467 415 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -55 -467 314 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -46 -467 411 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -30 -467 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -14 -467 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 1 -467 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 17 -467 412 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 32 -467 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 48 -467 418 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 63 -467 324 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -637 -486 428 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -637 -486 330 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -621 -486 430 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -605 -486 335 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -589 -486 337 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -572 -486 340 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -556 -486 343 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -540 -486 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -524 -486 339 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -508 -486 334 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -491 -486 328 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -475 -486 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -459 -486 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -443 -486 304 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -427 -486 294 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -410 -486 283 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -394 -486 272 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -378 -486 259 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -362 -486 246 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -346 -486 232 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -329 -486 216 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -313 -486 200 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -290 -486 184 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -267 -486 158 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -245 -486 132 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -222 -486 106 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -199 -486 80 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -176 -486 54 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -153 -486 28 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -130 -486 2 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -107 -486 -24 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -84 -486 -49 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -62 -486 -73 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -39 -486 411 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -16 -486 313 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 7 -486 415 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 30 -486 320 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 46 -486 422 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 62 -486 329 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 78 -486 434 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 95 -486 342 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 111 -486 449 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 120 -486 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 130 -486 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 139 -486 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 136 -486 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -570 -551 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -570 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -559 -551 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -547 -551 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -535 -551 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -524 -551 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -512 -551 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -500 -551 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -489 -551 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -477 -551 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -465 -551 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -453 -551 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -435 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -417 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -398 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -380 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -362 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -343 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -325 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -307 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -288 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -270 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -251 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -233 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -215 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -196 -551 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -178 -551 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -160 -551 351 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -141 -551 341 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -123 -551 331 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -105 -551 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -86 -551 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -68 -551 301 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -49 -551 291 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -31 -551 281 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -13 -551 272 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 6 -551 262 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 24 -551 252 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 42 -551 242 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 61 -551 232 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 63 -551 222 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -480 212 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -480 199 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -608 -480 186 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -585 -480 172 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -562 -480 159 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -540 -480 146 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -517 -480 132 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -494 -480 119 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -472 -480 106 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -449 -480 85 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -426 -480 63 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -404 -480 40 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -381 -480 16 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -365 -480 -9 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -356 -480 -31 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -346 -480 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -337 -480 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -328 -480 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -318 -480 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -309 -480 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -300 -480 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -290 -480 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -281 -480 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -272 -480 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -262 -480 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -246 -480 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -230 -480 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -214 -480 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -198 -480 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -182 -480 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -166 -480 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -150 -480 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -134 -480 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -119 -480 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -103 -480 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -87 -480 435 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -71 -480 331 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -55 -480 424 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -39 -480 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -23 -480 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -7 -480 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 9 -480 307 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 25 -480 303 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 41 -480 298 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 57 -480 293 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 69 -480 289 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -412 284 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -412 277 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -617 -412 270 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -603 -412 263 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -589 -412 256 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -576 -412 249 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -562 -412 242 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -548 -412 235 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -534 -412 227 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -521 -412 216 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -500 -412 200 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -480 -412 184 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -459 -412 166 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -439 -412 147 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -419 -412 128 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -398 -412 107 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -378 -412 86 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -357 -412 64 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -337 -412 40 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -317 -412 16 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -303 -412 -8 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -296 -412 -31 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -289 -412 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -282 -412 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -275 -412 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -268 -412 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -260 -412 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -253 -412 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -246 -412 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -239 -412 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -232 -412 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -218 -412 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -205 -412 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -191 -412 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -177 -412 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -164 -412 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -150 -412 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -136 -412 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -122 -412 435 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -109 -412 331 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -95 -412 424 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -81 -412 321 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -67 -412 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -54 -412 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -40 -412 411 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -26 -412 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -12 -412 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 1 -412 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 15 -412 412 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 29 -412 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 42 -412 418 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 56 -412 324 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 69 -412 428 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -535 335 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -535 435 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -613 -535 338 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -595 -535 439 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -577 -535 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -559 -535 447 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -541 -535 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -523 -535 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -506 -535 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -488 -535 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -470 -535 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -452 -535 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -434 -535 350 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -416 -535 347 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -399 -535 344 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -381 -535 339 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -363 -535 334 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -345 -535 328 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -327 -535 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -309 -535 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -292 -535 304 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -274 -535 294 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -256 -535 283 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -238 -535 263 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -220 -535 244 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -202 -535 224 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -185 -535 204 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -160 -535 185 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -136 -535 165 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -111 -535 145 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -87 -535 126 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -62 -535 106 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -38 -535 86 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -13 -535 67 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 11 -535 47 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 36 -535 27 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 60 -535 8 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 85 -535 -12 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 109 -535 -32 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 127 -535 -48 80
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 145 -535 442 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 143 -535 349 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -564 -416 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -564 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -557 -416 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -549 -416 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -542 -416 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -535 -416 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -528 -416 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -521 -416 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -513 -416 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -506 -416 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -499 -416 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -492 -416 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -478 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -464 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -450 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -436 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -422 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -409 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -395 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -381 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -367 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -353 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -339 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -325 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -312 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -298 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -284 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -270 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -256 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -242 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -228 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -214 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -201 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -187 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -173 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -159 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -145 -416 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -131 -416 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -117 -416 343 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -104 -416 334 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -90 -416 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -76 -416 316 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -62 -416 307 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -48 -416 298 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -34 -416 289 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -20 -416 280 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -6 -416 271 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 7 -416 262 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 21 -416 253 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 35 -416 244 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 49 -416 235 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 63 -416 226 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 69 -416 217 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -417 208 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -630 -417 194 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -610 -417 180 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -589 -417 166 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -569 -417 152 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -548 -417 137 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -528 -417 123 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -507 -417 107 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -487 -417 86 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -466 -417 64 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -445 -417 40 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -425 -417 16 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -404 -417 -8 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -390 -417 -31 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -383 -417 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -376 -417 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -369 -417 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -361 -417 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -354 -417 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -347 -417 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -340 -417 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -333 -417 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -325 -417 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -311 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -297 -417 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -284 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -270 -417 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -256 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -242 -417 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -228 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -214 -417 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -200 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -186 -417 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -172 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -158 -417 451 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -145 -417 352 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -131 -417 443 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -117 -417 337 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -103 -417 429 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -89 -417 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -75 -417 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -61 -417 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -47 -417 413 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -33 -417 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -19 -417 310 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -6 -417 308 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 8 -417 306 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 22 -417 304 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 36 -417 302 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 50 -417 300 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 64 -417 298 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 78 -417 296 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 83 -417 295 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -617 -556 293 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -617 -556 284 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -599 -556 275 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -580 -556 266 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -562 -556 257 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -543 -556 245 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -525 -556 231 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -499 -556 216 6
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -474 -556 200 13
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -449 -556 183 20
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -424 -556 165 26
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -399 -556 146 33
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -373 -556 127 40
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -348 -556 106 46
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -323 -556 85 53
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -298 -556 63 60
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -273 -556 40 66
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 1
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -247 -556 16 73
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -222 -556 -9 79
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -204 -556 -31 79
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -192 -556 452 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -180 -556 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -168 -556 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -156 -556 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -144 -556 451 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 0 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -132 -556 352 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -121 -556 443 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 1 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -109 -556 337 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -97 -556 429 -7
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -78 -556 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -60 -556 419 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -41 -556 317 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -23 -556 413 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -4 -556 312 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 14 -556 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 33 -556 311 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 51 -556 410 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 70 -556 314 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 89 -556 415 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 103 -556 320 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -597 -576 422 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -597 -576 325 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -578 -576 425 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -559 -576 329 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -540 -576 431 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -520 -576 337 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0
+demo1.js:277 Bala X, Bala Speed, Bala Y, Dif Caida X
+demo1.js:278 -501 -576 441 0
+demo1.js:281 Salto, Atras, Adelante: 
+demo1.js:282 1 0 0

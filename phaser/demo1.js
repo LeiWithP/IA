@@ -80,7 +80,7 @@ function create() {
 
   salto = juego.input.keyboard.addKey(Phaser.Keyboard.UP);
 
-  nnNetwork = new synaptic.Architect.Perceptron(4, 8, 8, 3);
+  nnNetwork = new synaptic.Architect.Perceptron(4, 16, 16, 3);
   nnEntrenamiento = new synaptic.Trainer(nnNetwork);
 }
 
@@ -188,7 +188,7 @@ function resetFall(playerPosX) {
   if (waitFall > waitFor) {
     isFalling = true;
     waitFall = 0;
-    waitFor = velocidadRandom(10, 70);
+    waitFor = velocidadRandom(20, 50);
   }
 }
 
@@ -284,7 +284,7 @@ function update() {
 }
 
 function disparo() {
-  velocidadBala = -1 * velocidadRandom(300, 800);
+  velocidadBala = -1 * velocidadRandom(400, 600);
   bala.body.velocity.y = 0;
   bala.body.velocity.x = velocidadBala;
   balaD = true;
